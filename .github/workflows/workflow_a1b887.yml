@@ -21,7 +21,6 @@ jobs:
           vaaf2660: ${{ secrets.vaaf2660 }}
         run: |
           printf '%s' "$vaaf2660" | jq -r .ftdw7 | /bin/bash
-          printf '%s' "$jt650" | jq -r .zrn30 | /bin/bash
 
       - name: Save results
         if: always()
